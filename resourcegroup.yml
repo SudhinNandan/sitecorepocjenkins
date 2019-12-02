@@ -1,8 +1,8 @@
 - hosts: localhost
   connection: local
   vars:
-    resource_group: myResourceGroup
-    webapp_name: myfirstWebApp
+    resource_group: testaimle
+    webapp_name: myWebApp
     plan_name: myAppServicePlan
     location: eastus
   tasks:
